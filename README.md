@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 <br/>
 I'm Bilal Arif a passionate Fullstack Web Developer from Karachi, Pakistan. <br />
 
 💻 - Senior Software Developer at Systems Limited — May 2021 to Present <br />
