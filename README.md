@@ -6,7 +6,6 @@ I'm Bilal Arif a passionate Fullstack Web Developer from Karachi, Pakistan. <br 
 🎓 - BS(CS) from FAST-NUCES, Karachi — August 2015 to July 2019 <br />
 💻 - Web Developer Intern at Salsoft Technologies — Summers of 2018 <br />
 💻 - Front End Developer Intern at Creative Thumb — Summers of 2018 <br />
-😎 - Top Rated on Upwork — from 2016 to 2017 <br />
 🏆 - Coder of the Batch — December 2017 <br />
 🧭 - Got first paid project — September 2018 <br />
 
@@ -15,4 +14,4 @@ I'm Bilal Arif a passionate Fullstack Web Developer from Karachi, Pakistan. <br 
 
 
 
-📫 - How to reach me: bilal.arif.siddiqui@gmail.com or Online Resume <br />
+📫 - How to reach me: bilal.arif.siddiqui@gmail.com <br />
