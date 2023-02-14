@@ -14,7 +14,7 @@ I'm Bilal Arif a passionate Fullstack Web Developer from Karachi, Pakistan. <br 
 💱 - I created www.appointment.coraphysicaltherapy.com — An app that helps patient get clinical appointment. <br />
 💱 - I worked on www.britax.com — An MSD365 e-commerce store used to sell baby products. <br />
 💱 - I worked on www.only-stores.com — An MSD365 e-commerce store used to sell products. <br />
-💱 - I worked on [wwww.qcloud.pk/AboutQcloud.com](https://qcloud.pk/AboutQcloud) — A cloud portal that uses openstack to create and sell cloud services to customers <br />
+💱 - I worked on Cloud7 (https://qcloud.pk/AboutQcloud) — A cloud portal that uses openstack to create and sell cloud services to customers <br />
 
 
 📫 - All my work: bilalarif.com <br />
