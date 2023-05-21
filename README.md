@@ -1,5 +1,6 @@
 Hi there 👋 <br/>
-I'm Bilal Arif a passionate Fullstack Web Developer from Karachi, Pakistan. <br />
+I'm Bilal Arif a passionate Fullstack Web Developer  Pakistan. <br />
+Expertise in is Lead Frontend Developement <br />
 
 💻 - Senior Software Developer at Systems Limited — May 2021 to Present <br />
 💻 - MERN Stack Developer at Ivolve Technologies — July 2020 to April 2021 <br />
@@ -12,7 +13,7 @@ I'm Bilal Arif a passionate Fullstack Web Developer from Karachi, Pakistan. <br 
 
 
 💱 - I'm working on [Seekops](https://soda.seekops.com/) — Drones that detect methane gas emitters from earth. <br />
-💱 - Working as a React Lead / Trainer to train people in React.
+💱 - Working as a React Lead / Trainer to train people in React.<br />
 💱 - I created [CORA Physical Therapy](https://www.appointment.coraphysicaltherapy.com) — An app that helps patient get clinical appointment. <br />
 💱 - I worked on [Britax](https://www.britax.com) — An MSD365 e-commerce store used to sell baby products. <br />
 💱 - I worked on [Only Store](https://www.only-stores.com) — An MSD365 e-commerce store used to sell products. <br />
