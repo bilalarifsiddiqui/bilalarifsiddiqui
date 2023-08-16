@@ -1,7 +1,4 @@
 
-![Uploading New-file.gif…]()
-
-
 Hi there 👋 <br/>
 I'm Bilal Arif a passionate Fullstack Web Developer  Pakistan. <br />
 Expertise in is Lead Frontend Developement <br />
