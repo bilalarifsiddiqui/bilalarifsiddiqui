@@ -23,6 +23,6 @@ React | Next | Cloud | Typescript
 💱 - I worked on  [Cloud7](https://qcloud.pk/AboutQcloud) — A cloud portal that uses OpenStack to create and sell cloud services to customers <br />
 
 
-📫 - One-Stop Hub for All My Links: Explore Now! [Bilal Arif ](https://linktr.ee/bilalarifsiddiqui) <br />
+📫 - One-Stop Hub for All My Links: Explore Now! -> [Bilal Arif ](https://linktr.ee/bilalarifsiddiqui) <br />
 📫 - How to reach me: bilal.arif.siddiqui@gmail.com <br />
 📫 - TopMate: [BilalArif-Topmate](https://topmate.io/bilalarif)<br />
