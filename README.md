@@ -1,7 +1,9 @@
 
 Hi there 👋 <br/>
-I'm Bilal Arif a passionate Fullstack Web Developer  Pakistan. <br />
-Expertise in is Lead Frontend Developement <br />
+I'm Bilal Arif a passionate Fullstack Web Developer Pakistan. <br />
+Expertise in Lead Frontend Development <br />
+
+React | Next | Cloud | Typescript
 
 💻 - Senior Software Developer at Systems Limited — May 2021 to Present <br />
 💻 - MERN Stack Developer at Ivolve Technologies — July 2020 to April 2021 <br />
@@ -14,12 +16,13 @@ Expertise in is Lead Frontend Developement <br />
 
 
 💱 - I'm working on [Seekops](https://soda.seekops.com/) — Drones that detect methane gas emitters from earth. <br />
-💱 - Working as a React Lead / Trainer to train people in React.<br />
+💱 - Working as a React Lead / Trainer to train people in React & Next JS.<br />
 💱 - I created [CORA Physical Therapy](https://www.appointment.coraphysicaltherapy.com) — An app that helps patient get clinical appointment. <br />
 💱 - I worked on [Britax](https://www.britax.com) — An MSD365 e-commerce store used to sell baby products. <br />
 💱 - I worked on [Only Store](https://www.only-stores.com) — An MSD365 e-commerce store used to sell products. <br />
-💱 - I worked on  [Cloud7](https://qcloud.pk/AboutQcloud) — A cloud portal that uses openstack to create and sell cloud services to customers <br />
+💱 - I worked on  [Cloud7](https://qcloud.pk/AboutQcloud) — A cloud portal that uses OpenStack to create and sell cloud services to customers <br />
 
 
-📫 - All my work: [Bilal Arif ](https://bilalarif.com) <br />
+📫 - All about me: [Bilal Arif ](https://linktr.ee/bilalarifsiddiqui) <br />
 📫 - How to reach me: bilal.arif.siddiqui@gmail.com <br />
+📫 - TopMate: [BilalArif-Topmate](https://topmate.io/bilalarif)<br />
